@@ -32,9 +32,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/react-native-sound-analyzer"
+    "url": "https://github.com/Pahatsahil/react-native-sound-analyzer"
   },
-  "author": "Your Name <you@example.com>",
+  "author": "sahilpahat051",
+  "bugs": {
+    "url": "https://github.com/Pahatsahil/react-native-sound-analyzer/issues"
+  },
+  "homepage": "https://github.com/Pahatsahil/react-native-sound-analyzer#readme",
   "license": "MIT",
   "peerDependencies": {
     "react": "*",
