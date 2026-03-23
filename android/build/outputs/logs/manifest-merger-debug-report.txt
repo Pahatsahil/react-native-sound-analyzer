@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple1/Sahil/react-native-sound-analyzer/example/node_modules/react-native-sound-analyzer/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5025806429808705360.xml:2:13-83
+INJECTED from /Users/apple1/Sahil/react-native-sound-analyzer/example/node_modules/react-native-sound-analyzer/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5025806429808705360.xml:2:13-83
+	package
+		INJECTED from /Users/apple1/Sahil/react-native-sound-analyzer/example/node_modules/react-native-sound-analyzer/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5025806429808705360.xml
+	xmlns:android
+		ADDED from /Users/apple1/Sahil/react-native-sound-analyzer/example/node_modules/react-native-sound-analyzer/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5025806429808705360.xml:2:23-81
+uses-sdk
+INJECTED from /Users/apple1/Sahil/react-native-sound-analyzer/example/node_modules/react-native-sound-analyzer/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5025806429808705360.xml reason: use-sdk injection requested
+INJECTED from /Users/apple1/Sahil/react-native-sound-analyzer/example/node_modules/react-native-sound-analyzer/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5025806429808705360.xml
+INJECTED from /Users/apple1/Sahil/react-native-sound-analyzer/example/node_modules/react-native-sound-analyzer/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5025806429808705360.xml
+	android:targetSdkVersion
+		INJECTED from /Users/apple1/Sahil/react-native-sound-analyzer/example/node_modules/react-native-sound-analyzer/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5025806429808705360.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple1/Sahil/react-native-sound-analyzer/example/node_modules/react-native-sound-analyzer/android/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest5025806429808705360.xml

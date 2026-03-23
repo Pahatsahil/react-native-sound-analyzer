@@ -1,0 +1,8 @@
+example/
+.github/
+__tests__/
+.eslintrc.js
+.prettierrc.js
+.gitignore
+*.log
+node_modules/
